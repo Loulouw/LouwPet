@@ -1,0 +1,8 @@
+name: LouwPet
+version: 1.0
+author: Loulouw
+main: fr.loulouw.louwpet.Main
+commands:
+  pet:
+    description: Menu des pets
+    usage: /pet
